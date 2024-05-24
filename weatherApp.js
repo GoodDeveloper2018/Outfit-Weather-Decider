@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const apiKey = '37424a67eade43c5a2f234512231603';
+  const apiKey = 'deactivated';
   const button = document.getElementById('button');
   const button1 = document.getElementById('button1');
   button1.style.visibility = 'hidden';
